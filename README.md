@@ -1,8 +1,8 @@
 # IMC
 
-<div align="center">
+<div align="left">
   <a href="http://ADNAUSEAM.io">
-    <img src="https://rednoise.org/imc/imc.png"/>
+    <img src="https://rednoise.org/imc/imc.png" width=200/>
   </a>
 </div>
 
