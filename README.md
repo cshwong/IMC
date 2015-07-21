@@ -26,42 +26,54 @@ This course will teach fundamental programming concepts via creative exercises a
 ** [Intro to Atom.io](http://)
 ** [Intro to p5*js](http://)
 ** First Sketches (editor, browser, p5.js)
+* Coordinate System
 * Topic: Basic Drawing Operations: point(), line(), rect(), ellipse()
 * Topic: Operators, Variables
+* Color Model (RGB 0-255)
+* Program flow: setup() / draw()
 ** Simple Animation 1: moving a circle across screen (using x-variable that is incremented)
 ** Simple Animation 2: moving a circle across screen (using x-variable that is incremented)
 * [Assignment 1 (DUE XX/YY)](http://link)
 
 ##### Week 2:
-* Conditionals (if,if-else), Loops (while)
+* Conditionals (if,if-else)
+* Built-in variables: width, height, frameCount
 * The Browser Inspector
-* More Drawing Operations: quad(), triangle(), arc(), random()
 * Publishing Sketches on Github
-* [Assignment 1 (DUE XX/YY)](http://link)
+* Simple Animation 1: Circles bouncing off 2 walls
 
 ##### Week 3:
-* Program flow: setup() / draw()
+* Loops (while)
+* Debugging with console output (print value of variable, etc.)
 * Interacting with User: Mouse and Keyboard
-* 
+* Built-in variables: mouseX, mouseY, mouseIsPressed, keyPressed, key
+* More Drawing Operations: quad(), triangle(), arc(), random()
+
 ##### Week 4:
-* Review Loops (while/for)
-* Arrays I: Introduction
-* Working with Images
-* The Modulo operator
+* Review Loops (while)
+* preload() function
+* Working with Images (loadImage(), image())
+* Strings, Drawing Text (text(), textSize(), textAlign());
 
 ##### Week 5:
-* More with Arrays
-* Events and Callbacks
-* Strings, Text and Fonts
+* Arrays I: Introduction
+** Example: load several images with names stored in array
+* The Modulo operator, with array
+** Example: line of rectangles, alternating black and white
+* Loading Custom Fonts
 
 ##### Week 6:
-* Time-based Animation
+* Loops (for)
+* More with Arrays
 * Creating Simple Functions
-* Playing Background Sounds
+* Playing/looping Background Sounds
+* Nested Loops (grids)
+** Example: checkerboard
 
 ##### Week 7:
 * Functions with Parameters
-* Debugging  with console output
+* Time-based Animation (lerp())
+* Events/Callbacks: mousePressed, mouseReleased, mouseClicked, keyPressed, etc.
 * Image Effects 
 
 ##### Week 8:
@@ -75,7 +87,8 @@ This course will teach fundamental programming concepts via creative exercises a
 
 ##### Week 10:
 * Review
-* Examples with Advanced Image, Sound, Video Effects and User Interaction
+* Advanced Topics:
+** Image, Sound, Video Effects and User Interaction
 
 ##### Week 11:
 * Student Projects 
