@@ -13,7 +13,8 @@ This course will teach fundamental programming concepts via creative exercises a
 * [p5*js site](http://p5js.org/)
 * [atom.io](https://atom.io/)
 * [Learning Processing Book](https://github.com/shiffman/LearningProcessing)
-* [Simple p5js temlate](https://github.com/SchoolofCreativeMedia/IMC/blob/master/p5js-simple.html)
+* [Learning Processing Examples (p5*js)](https://github.com/shiffman/LearningProcessing-p5.js)
+* [Simple p5js template](https://github.com/SchoolofCreativeMedia/IMC/blob/master/p5js-simple.html)
 
 #### Syllabus
 
@@ -51,8 +52,9 @@ This course will teach fundamental programming concepts via creative exercises a
 
 ##### Week 4:
 * Review Loops (while)
-* preload() function
-* Working with Images (loadImage(), image())
+* Program flow: the preload() function
+* Working with Images: loadImage(), image()
+* Working with Sound: Playing/looping Background Sounds
 * Strings, Drawing Text (text(), textSize(), textAlign());
 
 ##### Week 5:
@@ -61,25 +63,28 @@ This course will teach fundamental programming concepts via creative exercises a
 * The Modulo operator, with array
 ** Example: line of rectangles, alternating black and white
 * Loading Custom Fonts
+* Code organization (separate html and js files)
 
 ##### Week 6:
 * Loops (for)
 * More with Arrays
 * Creating Simple Functions
-* Playing/looping Background Sounds
 * Nested Loops (grids)
 ** Example: checkerboard
 
 ##### Week 7:
 * Functions with Parameters
 * Time-based Animation (lerp())
-* Events/Callbacks: mousePressed, mouseReleased, mouseClicked, keyPressed, etc.
-* Image Effects 
+* Event-handlers: mousePressed, mouseReleased, mouseClicked, keyPressed, etc.
+* Callback: mousePressed, mouseReleased, mouseClicked, keyPressed, etc.
 
 ##### Week 8:
 * Functions with Returns
 * The Browser Debugger
-* Sound Events
+* Sound on Events
+** Example: Collisions (ball hits wall, etc.)
+* Interacting with HTML components
+** Buttons, Sliders, TextInput 
 
 ##### Week 9:
 * Embedding Video
@@ -88,11 +93,12 @@ This course will teach fundamental programming concepts via creative exercises a
 ##### Week 10:
 * Review
 * Advanced Topics:
-** Image, Sound, Video Effects and User Interaction
+** Image/Sound/Video effects and User Interaction
 
 ##### Week 11:
 * Student Projects 
 * Advanced Topics Cont.
+** Simple 3d, push()/pop() matrix, affine transforms
 
 ##### Week 12:
 * Student Projects 
@@ -100,4 +106,8 @@ This course will teach fundamental programming concepts via creative exercises a
 
 ##### Week 13:
 * Review for Exam 
+
+#### TODO:
+* Labs: get software pre-installed (atom.io, p5js, git (cmd-line), node/npm)
+* Labs: check permissions for installing atom packages
 
