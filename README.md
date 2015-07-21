@@ -19,23 +19,19 @@ This course will teach fundamental programming concepts via creative exercises a
 
 #### Syllabus
 
-##### Week 1 (3/9): Intro, HTML/CSS, Github, Atom.io
+##### Week 1 (3/9): Getting Started (HTML/CSS, Github, Atom.io, p5*js)
 
 * What is "media computation"?
-
-* Getting Started
 * [Intro to HTML and CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS)
 * [Intro to Atom.io](http://)
 * [Intro to p5*js](http://)
-* First Sketches (editor, browser, p5.js)
-
 * Coordinate System
-* Basic Drawing Operations: point(), line(), rect(), ellipse(), random()
 * Color Model (RGB 0-255)
-* Operators, Variables
+* Operators and Variables
+* Basic Drawing Operations: point(), line(), rect(), ellipse(), random()
 * Program flow: setup() / draw()
   * Simple Animation 1: moving a circle across screen (using x-variable that is incremented)
-  * Simple Animation 2: moving a circle across screen (using x-variable that is incremented)
+  * Simple Animation 2: gradually changing color
 * [Intro to Git and Github](http://): Create account and repository
 * [Assignment 1 (DUE XX/YY)](http://link)
 
@@ -130,9 +126,10 @@ This course will teach fundamental programming concepts via creative exercises a
 * Review for Exam
   * Operators, loops, conditionals, arrays, functions
 
-#### TODO:
-* Labs: decide on location (hopefully CS FYP 5th floor lab)
+#### TODO (Chong Wah):
+* Class: Change times, anything other than 9am
+* Class: decide on location (hopefully CS FYP 5th floor lab)
 * Labs: get software pre-installed (atom.io, p5js, git (cmd-line), node/npm)
 * Labs: check permissions for installing atom/npm packages
-* Labs: check on webcams ***
+* Labs: check on webcams
 
