@@ -24,20 +24,18 @@ This course will teach fundamental programming concepts via creative exercises a
 * What is "media computation"?
 
 * Getting Started
-  * [Intro to HTML and CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS)
-  * [Intro to Atom.io](http://)
-  * [Intro to p5*js](http://)
-  * First Sketches (editor, browser, p5.js)
+* [Intro to HTML and CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS)
+* [Intro to Atom.io](http://)
+* [Intro to p5*js](http://)
+* First Sketches (editor, browser, p5.js)
 
 * Coordinate System
-* Topic: Basic Drawing Operations: point(), line(), rect(), ellipse(), random()
-* Topic: Operators, Variables
+* Basic Drawing Operations: point(), line(), rect(), ellipse(), random()
 * Color Model (RGB 0-255)
-
+* Operators, Variables
 * Program flow: setup() / draw()
-** Simple Animation 1: moving a circle across screen (using x-variable that is incremented)
-** Simple Animation 2: moving a circle across screen (using x-variable that is incremented)
-
+  * Simple Animation 1: moving a circle across screen (using x-variable that is incremented)
+  * Simple Animation 2: moving a circle across screen (using x-variable that is incremented)
 * [Intro to Git and Github](http://): Create account and repository
 * [Assignment 1 (DUE XX/YY)](http://link)
 
@@ -65,9 +63,9 @@ This course will teach fundamental programming concepts via creative exercises a
 
 ##### Week 5:
 * Arrays I: Introduction
-** Example: load several images with names stored in array
+  * Example: load several images with names stored in array
 * The Modulo operator, with array
-** Example: line of rectangles, alternating black and white
+  * Example: line of rectangles, alternating black and white
 * Loading Custom Fonts
 
 ##### Week 6:
@@ -75,7 +73,7 @@ This course will teach fundamental programming concepts via creative exercises a
 * More with Arrays
 * Creating Simple Functions
 * Nested Loops (grids)
-** Example: checkerboard
+  * Example: checkerboard
 
 ##### Week 7:
 * Functions with Parameters
@@ -91,7 +89,7 @@ This course will teach fundamental programming concepts via creative exercises a
 
 ##### Week 9:
 * The Sound library
-** Reacting to sounds in realtime
+  * Reacting to sounds in realtime
 * Code organization (separate html and js files)
 * Interacting with DOM and HTML components (Buttons, Sliders, TextInput )
 
@@ -99,38 +97,38 @@ This course will teach fundamental programming concepts via creative exercises a
 * Review
 * Video
 * Advanced Topics(tbd):
-** External libraries (Speech, DOM, etc.)
-** Webcam (pixel manipulations)
-** Image/Sound/Video effects and User Interaction
-** JavaScript Callbacks
-** Simple 3d, push()/pop() matrix, affine transforms
-** Trigonometry: sin/cos/tan
+  * External libraries (Speech, DOM, etc.)
+  * Webcam (pixel manipulations)
+  * Image/Sound/Video effects and User Interaction
+  * JavaScript Callbacks
+  * Simple 3d, push()/pop() matrix, affine transforms
+  * Trigonometry: sin/cos/tan
 
 ##### Week 11:
 * Review
 * Student Projects 
 * Advanced Topics (tbd):
-** External libraries (Speech, DOM, etc.)
-** Webcam (pixel manipulations)
-** Image/Sound/Video effects and User Interaction
-** JavaScript Callbacks
-** Simple 3d, push()/pop() matrix, affine transforms
-** Trigonometry: sin/cos/tan
+  * External libraries (Speech, DOM, etc.)
+  * Webcam (pixel manipulations)
+  * Image/Sound/Video effects and User Interaction
+  * JavaScript Callbacks
+  * Simple 3d, push()/pop() matrix, affine transforms
+  * Trigonometry: sin/cos/tan
 
 ##### Week 12:
 * Review
 * Student Projects 
-* Advanced Topics(tbd):
-** External libraries (Speech, DOM, etc.)
-** Webcam (pixel manipulations)
-** Image/Sound/Video effects and User Interaction
-** JavaScript Callbacks
-** Simple 3d, push()/pop() matrix, affine transforms
-** Trigonometry: sin/cos/tan
-
+* Advanced Topics (tbd):
+  * External libraries (Speech, DOM, etc.)
+  * Webcam (pixel manipulations)
+  * Image/Sound/Video effects and User Interaction
+  * JavaScript Callbacks
+  * Simple 3d, push()/pop() matrix, affine transforms
+  * Trigonometry: sin/cos/tan
+  
 ##### Week 13:
 * Review for Exam
-** Operators, loops, conditionals, arrays, functions
+  * Operators, loops, conditionals, arrays, functions
 
 #### TODO:
 * Labs: decide on location (hopefully CS FYP 5th floor lab)
