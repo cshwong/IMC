@@ -23,10 +23,15 @@ This course will teach fundamental programming concepts via creative exercises a
 * What is "media computation"?
 * Getting Started
 ** [Intro to HTML and CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS)
+
 ** [Intro to Git and Github](http://)
+
 ** [Intro to Atom.io](http://)
+
 ** [Intro to p5*js](http://)
+
 ** First Sketches (editor, browser, p5.js)
+
 * Coordinate System
 * Topic: Basic Drawing Operations: point(), line(), rect(), ellipse()
 * Topic: Operators, Variables
