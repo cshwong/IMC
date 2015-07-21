@@ -39,9 +39,52 @@ This course will teach fundamental programming concepts via creative exercises a
 * Publishing Sketches on Github
 * [Assignment 1 (DUE XX/YY)](http://link)
 
-##### Week 2:
-##### Week 2:
-##### Week 2:
-##### Week 2:
-##### Week 2:
-##### Week 2:
+##### Week 3:
+* Program flow: setup() / draw()
+* Interacting with User: Mouse and Keyboard
+* 
+##### Week 4:
+* Review Loops (while/for)
+* Arrays I: Introduction
+* Working with Images
+* The Modulo operator
+
+##### Week 5:
+* More with Arrays
+* Events and Callbacks
+* Strings, Text and Fonts
+
+##### Week 6:
+* Time-based Animation
+* Creating Simple Functions
+* Playing Background Sounds
+
+##### Week 7:
+* Functions with Parameters
+* Debugging  with console output
+* Image Effects 
+
+##### Week 8:
+* Functions with Returns
+* The Browser Debugger
+* Sound Events
+
+##### Week 9:
+* Embedding Video
+* Video Effects
+
+##### Week 10:
+* Review
+* Examples with Advanced Image, Sound, Video Effects and User Interaction
+
+##### Week 11:
+* Student Projects 
+* Advanced Topics Cont.
+
+##### Week 12:
+* Student Projects 
+* Advanced Topics Cont.
+
+##### Week 13:
+* Review for Exam 
+
