@@ -32,8 +32,16 @@ This course will teach fundamental programming concepts via creative exercises a
 ** Simple Animation 2: moving a circle across screen (using x-variable that is incremented)
 * [Assignment 1 (DUE XX/YY)](http://link)
 
-##### Week 2 (10/9):
+##### Week 2:
 * Conditionals (if,if-else), Loops (while)
 * The Browser Inspector
 * More Drawing Operations: quad(), triangle(), arc(), random()
 * Publishing Sketches on Github
+* [Assignment 1 (DUE XX/YY)](http://link)
+
+##### Week 2:
+##### Week 2:
+##### Week 2:
+##### Week 2:
+##### Week 2:
+##### Week 2:
