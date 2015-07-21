@@ -21,21 +21,19 @@ This course will teach fundamental programming concepts via creative exercises a
 ##### Week 1 (3/9): Intro, HTML/CSS, Github, Atom.io
 
 * What is "media computation"?
+* 
 * Getting Started
 ** [Intro to HTML and CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS)
-
 ** [Intro to Git and Github](http://)
-
 ** [Intro to Atom.io](http://)
-
 ** [Intro to p5*js](http://)
-
 ** First Sketches (editor, browser, p5.js)
 
 * Coordinate System
 * Topic: Basic Drawing Operations: point(), line(), rect(), ellipse()
 * Topic: Operators, Variables
 * Color Model (RGB 0-255)
+
 * Program flow: setup() / draw()
 ** Simple Animation 1: moving a circle across screen (using x-variable that is incremented)
 ** Simple Animation 2: moving a circle across screen (using x-variable that is incremented)
