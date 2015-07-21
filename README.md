@@ -21,22 +21,25 @@ This course will teach fundamental programming concepts via creative exercises a
 ##### Week 1 (3/9): Intro, HTML/CSS, Github, Atom.io
 
 * What is "media computation"?
-* 
+
 * Getting Started
+
 ** [Intro to HTML and CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS)
-** [Intro to Git and Github](http://)
+
 ** [Intro to Atom.io](http://)
 ** [Intro to p5*js](http://)
 ** First Sketches (editor, browser, p5.js)
 
 * Coordinate System
-* Topic: Basic Drawing Operations: point(), line(), rect(), ellipse()
+* Topic: Basic Drawing Operations: point(), line(), rect(), ellipse(), random()
 * Topic: Operators, Variables
 * Color Model (RGB 0-255)
 
 * Program flow: setup() / draw()
 ** Simple Animation 1: moving a circle across screen (using x-variable that is incremented)
 ** Simple Animation 2: moving a circle across screen (using x-variable that is incremented)
+
+* [Intro to Git and Github](http://): Create account and repository
 * [Assignment 1 (DUE XX/YY)](http://link)
 
 ##### Week 2:
@@ -45,6 +48,7 @@ This course will teach fundamental programming concepts via creative exercises a
 * The Browser Inspector
 * Publishing Sketches on Github
 * Simple Animation 1: Circles bouncing off 2 walls
+* Github: Creating a repository with README.md
 
 ##### Week 3:
 * Loops (while)
@@ -66,7 +70,6 @@ This course will teach fundamental programming concepts via creative exercises a
 * The Modulo operator, with array
 ** Example: line of rectangles, alternating black and white
 * Loading Custom Fonts
-* Code organization (separate html and js files)
 
 ##### Week 6:
 * Loops (for)
@@ -79,38 +82,60 @@ This course will teach fundamental programming concepts via creative exercises a
 * Functions with Parameters
 * Time-based Animation (lerp())
 * Event-handlers: mousePressed, mouseReleased, mouseClicked, keyPressed, etc.
-* Callback: mousePressed, mouseReleased, mouseClicked, keyPressed, etc.
+* String Functions
 
 ##### Week 8:
 * Functions with Returns
 * The Browser Debugger
 * Sound on Events
 ** Example: Collisions (ball hits wall, etc.)
-* Interacting with HTML components
-** Buttons, Sliders, TextInput 
 
 ##### Week 9:
-* Embedding Video
-* Video Effects
+* The Sound library
+** Reacting to sounds in realtime
+* Code organization (separate html and js files)
+* Interacting with DOM and HTML components (Buttons, Sliders, TextInput )
 
 ##### Week 10:
 * Review
-* Advanced Topics:
+* Video
+* Advanced Topics(tbd):
+** External libraries (Speech, DOM, etc.)
+** Webcam (pixel manipulations)
 ** Image/Sound/Video effects and User Interaction
+** JavaScript Callbacks
+** Simple 3d, push()/pop() matrix, affine transforms
+** Trigonometry: sin/cos/tan
 
 ##### Week 11:
+* Review
 * Student Projects 
-* Advanced Topics Cont.
+* Advanced Topics (tbd):
+** External libraries (Speech, DOM, etc.)
+** Webcam (pixel manipulations)
+** Image/Sound/Video effects and User Interaction
+** JavaScript Callbacks
 ** Simple 3d, push()/pop() matrix, affine transforms
+** Trigonometry: sin/cos/tan
 
 ##### Week 12:
+* Review
 * Student Projects 
-* Advanced Topics Cont.
+* Advanced Topics(tbd):
+** External libraries (Speech, DOM, etc.)
+** Webcam (pixel manipulations)
+** Image/Sound/Video effects and User Interaction
+** JavaScript Callbacks
+** Simple 3d, push()/pop() matrix, affine transforms
+** Trigonometry: sin/cos/tan
 
 ##### Week 13:
-* Review for Exam 
+* Review for Exam
+** Operators, loops, conditionals, arrays, functions
 
 #### TODO:
+* Labs: decide on location (hopefully CS FYP 5th floor lab)
 * Labs: get software pre-installed (atom.io, p5js, git (cmd-line), node/npm)
-* Labs: check permissions for installing atom packages
+* Labs: check permissions for installing atom/npm packages
+* Labs: check on webcams ***
 
