@@ -9,6 +9,9 @@ This course will teach fundamental programming concepts via creative exercises a
 * [Course Form-2b](https://www.cityu.edu.hk/ug/201415/course/CS1103.pdf)
 
 #### Resources
+* [p5*js on github](https://github.com/processing/p5.js)
+* [p5*js site](http://p5js.org/)
+* [atom.io](https://atom.io/)
 * [Learning Processing Book](https://github.com/shiffman/LearningProcessing)
 * [Simple p5js temlate](https://github.com/SchoolofCreativeMedia/IMC/blob/master/p5js-simple.html)
 
