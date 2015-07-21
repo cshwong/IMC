@@ -14,6 +14,7 @@ This course will teach fundamental programming concepts via creative exercises a
 * [atom.io](https://atom.io/)
 * [Learning Processing Book](https://github.com/shiffman/LearningProcessing)
 * [Learning Processing Examples (p5*js)](https://github.com/shiffman/LearningProcessing-p5.js)
+* [Markdown Reference](https://help.github.com/articles/markdown-basics/)
 * [Simple p5js template](https://github.com/SchoolofCreativeMedia/IMC/blob/master/p5js-simple.html)
 
 #### Syllabus
@@ -23,12 +24,10 @@ This course will teach fundamental programming concepts via creative exercises a
 * What is "media computation"?
 
 * Getting Started
-
-** [Intro to HTML and CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS)
-
-** [Intro to Atom.io](http://)
-** [Intro to p5*js](http://)
-** First Sketches (editor, browser, p5.js)
+  * [Intro to HTML and CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS)
+  * [Intro to Atom.io](http://)
+  * [Intro to p5*js](http://)
+  * First Sketches (editor, browser, p5.js)
 
 * Coordinate System
 * Topic: Basic Drawing Operations: point(), line(), rect(), ellipse(), random()
