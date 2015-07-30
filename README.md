@@ -43,7 +43,7 @@ This course will teach fundamental programming concepts via creative exercises a
 * Publishing Sketches on Github
 * Simple Animation 1: Circles bouncing off 2 walls
 * Github: Creating a repository with README.md
-* [Assignment 2: Ball bouncing of 4 walls (DUE XX/YY)](http://link)
+* [Assignment 2: Ball bouncing off 4 walls (DUE XX/YY)](http://link)
 
 ##### Week 3:
 * Loops (while)
@@ -51,7 +51,7 @@ This course will teach fundamental programming concepts via creative exercises a
 * Interacting with User: Mouse and Keyboard
 * Built-in variables: mouseX, mouseY, mouseIsPressed, keyPressed, key
 * More Drawing Operations: quad(), triangle(), arc(), random()
-* [Assignment 3: (Pong) Ball bouncing of 4 walls and 2 paddles (DUE XX/YY)](http://link)
+* [Assignment 3: (Pong) Ball bouncing off 4 walls and 2 paddles (DUE XX/YY)](http://link)
 
 
 ##### Week 4:
