@@ -6,7 +6,8 @@
 This course will teach fundamental programming concepts via creative exercises and small projects. Toward this end, students will explore variables, loops, conditionals, arrays, functions, and programming for multimedia. Data structures and simple object-oriented techniques may also be introduced. 
 
 #### Documents
-* [Course Form-2b](https://www.cityu.edu.hk/ug/201415/course/CS1103.pdf), [Schedule](https://github.com/SchoolOfCreativeMedia/IMC/blob/master/schedule.md)
+* [Course Form-2b](https://www.cityu.edu.hk/ug/201415/course/CS1103.pdf)
+* [Teaching Schedule](https://github.com/SchoolOfCreativeMedia/IMC/blob/master/schedule.md)
 
 #### Resources
 * [p5*js on github](https://github.com/processing/p5.js)
