@@ -126,10 +126,5 @@ This course will teach fundamental programming concepts via creative exercises a
 * Review for Exam
   * Operators, loops, conditionals, arrays, functions
 
-#### TODO (Chong Wah):
-* Class: Change times, anything other than 9am
-* Class: decide on location (hopefully CS FYP 5th floor lab)
-* Labs: get software pre-installed (atom.io, p5js, git (cmd-line), node/npm)
-* Labs: check permissions for installing atom/npm packages
-* Labs: check on webcams
-
+#### TODO:
+* Labs: get software pre-installed (atom.io, p5js, git (cmd-line), node/npm) -- see #2
