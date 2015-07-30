@@ -25,7 +25,7 @@ This course will teach fundamental programming concepts via creative exercises a
 * [Intro to HTML and CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS)
 * [Intro to Atom.io](http://)
 * [Intro to p5*js](http://)
-* [Intro to Git and Github](http://): Create account and repository
+* [Intro to Git and Github](http://)
 * Coordinate System
 * Color Model (RGB 0-255)
 * Operators and Variables
@@ -33,6 +33,7 @@ This course will teach fundamental programming concepts via creative exercises a
 * Program flow: setup() / draw()
   * Simple Animation 1: moving a circle across screen (using x-variable that is incremented)
   * Simple Animation 2: gradually changing color
+* Create Github account and 'watch' the course website
 * [Assignment 1: A Simple Sketch on Github (DUE XX/YY)](http://link)
 
 ##### Week 2:
