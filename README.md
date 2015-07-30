@@ -25,6 +25,7 @@ This course will teach fundamental programming concepts via creative exercises a
 * [Intro to HTML and CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS)
 * [Intro to Atom.io](http://)
 * [Intro to p5*js](http://)
+* [Intro to Git and Github](http://): Create account and repository
 * Coordinate System
 * Color Model (RGB 0-255)
 * Operators and Variables
@@ -32,8 +33,7 @@ This course will teach fundamental programming concepts via creative exercises a
 * Program flow: setup() / draw()
   * Simple Animation 1: moving a circle across screen (using x-variable that is incremented)
   * Simple Animation 2: gradually changing color
-* [Intro to Git and Github](http://): Create account and repository
-* [Assignment 1 (DUE XX/YY)](http://link)
+* [Assignment 1: A Simple Sketch on Github (DUE XX/YY)](http://link)
 
 ##### Week 2:
 * Conditionals (if,if-else)
@@ -42,6 +42,7 @@ This course will teach fundamental programming concepts via creative exercises a
 * Publishing Sketches on Github
 * Simple Animation 1: Circles bouncing off 2 walls
 * Github: Creating a repository with README.md
+* [Assignment 2: Ball bouncing of 4 walls (DUE XX/YY)](http://link)
 
 ##### Week 3:
 * Loops (while)
@@ -49,6 +50,8 @@ This course will teach fundamental programming concepts via creative exercises a
 * Interacting with User: Mouse and Keyboard
 * Built-in variables: mouseX, mouseY, mouseIsPressed, keyPressed, key
 * More Drawing Operations: quad(), triangle(), arc(), random()
+* [Assignment 3: (Pong) Ball bouncing of 4 walls and 2 paddles (DUE XX/YY)](http://link)
+
 
 ##### Week 4:
 * Review Loops (while)
