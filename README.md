@@ -26,6 +26,7 @@ This course will teach fundamental programming concepts via creative exercises a
 * [Intro to Atom.io](http://)
 * [Intro to p5*js](http://)
 * [Intro to Git and Github](http://)
+* Plagiarism and Code
 * Coordinate System
 * Color Model (RGB 0-255)
 * Operators and Variables
@@ -39,6 +40,7 @@ This course will teach fundamental programming concepts via creative exercises a
 ##### Week 2:
 * Conditionals (if,if-else)
 * Built-in variables: width, height, frameCount
+* Plagiarism and Code Revisited
 * The Browser Inspector
 * Publishing Sketches on Github
 * Simple Animation 1: Circles bouncing off 2 walls
