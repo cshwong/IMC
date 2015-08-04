@@ -36,7 +36,7 @@ This course will teach fundamental programming concepts via creative exercises a
   * Simple Animation 1: moving a circle across screen (using x-variable that is incremented)
   * Simple Animation 2: gradually changing color
 * Create Github account and 'watch' the course website
-* [Assignment 1: A Simple Sketch on Github (DUE XX/YY)](https://github.com/SchoolOfCreativeMedia/IMC/blob/master/p5js-simple.html)
+* [Assignment 1: A Simple Sketch on Github (DUE XX/YY)](https://github.com/SchoolOfCreativeMedia/IMC/blob/master/p5js-simple.md)
 
 ##### Week 2:
 * Conditionals (if,if-else)
